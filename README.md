@@ -4,7 +4,7 @@ Keymaps for the custom Satan gh60 keyboard.
 
 ## Layers
 
-* The base layer is a colemak layout with brackets in the middle (useful for programming mainly). Inspired by DreymarR's Big Bag of Keyboard Tricks.
+* The base layer is a colemak layout with brackets in the middle (useful for programming mainly). Inspired by [DreymarR's Big Bag of Keyboard Tricks](https://forum.colemak.com/topic/1438-dreymars-big-bag-of-keyboard-tricks-linuxxkb-files-included/).
 * The function layer contains the F keys and various shortcuts (arrows, pgup, pgdown, home, end, reset [to flash firmware if the reset button cannot be used])
 * The third layer is the numpad toggled layer, which also contains keys useful to read / show slides or videos and the arrows on f/r/s/t
 * The fourth layer is an US qwerty toggled layer.
